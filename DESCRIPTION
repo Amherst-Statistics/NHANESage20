@@ -1,0 +1,16 @@
+Package: NHANESage20
+Type: Package
+Title: Data Package of Twenty Year Olds from the NHANES::NHANES National Health Examination and Nutrition Examination Survey
+Version: 0.1.0
+Authors@R: c(
+    person("Nicholas", "Horton", email="nhorton@amherst.edu", role = c("aut", "cre"))
+    )
+Maintainer: Nicholas Horton <nhorton@amherst.edu>
+Description: This package contains data on 20 year olds from the NHANES survey
+Depends:
+    R (>= 3.1)
+License: CC0
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/Amherst-Statistics/NHANESage20
+RoxygenNote: 6.1.1
